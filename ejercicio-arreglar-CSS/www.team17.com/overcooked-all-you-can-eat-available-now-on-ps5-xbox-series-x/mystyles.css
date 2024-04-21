@@ -1,7 +1,17 @@
 /** Solamente se puede modificar este fichero! Usa con astucia los selectores para aplicar las propiedades CSS adecuadas dependiendo del caso  */
 
-/** Ejemplo: Si quisiera pintar el h1 de rojo pondría */
+.published-date {
+    color:#F77D00;
+}
 
-/* h1 {
-    color: red;
-} */
+.menuejercicio {
+    background-color:#F77D00;
+}
+
+h4 {
+    text-align: center;
+}
+
+.logos-social-networks {
+    justify-content: center;
+}
